@@ -1,0 +1,5 @@
+{
+  "name": "Kleene Star Construction Lab with Simulator",
+  "description": "An interactive tool to experiment with the Kleene Star construction for creating an NFA accepting the Kleene Star Closure of the language of one input NFA",
+  "requestFramePermissions": []
+}
